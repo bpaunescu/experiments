@@ -1,0 +1,170 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<script src="slideshow.js" type="text/javascript"></script>
+<head>	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+	<title>Ball 4 Ever</title>
+	
+	<link rel="stylesheet" type="text/css" href="style.css" />
+	<!--[if lt IE 8]>
+		<link rel="stylesheet" type="text/css" href="style-ie.css" />
+	<![endif]-->
+</head>
+
+<body>
+
+	<div id="page-wrap">
+		<div id="inside">
+			
+			<div id="top-menu">
+				<table class="top-table">
+					<tr><td><p class="menu"><a href="register.html" class="button1"><strong>Create Account</strong></a></p></td>
+					<td><p class="menu"><a href="login.html" class="button1"><strong>Sign In</strong></a></p></td></tr>				
+					
+				</table>
+
+			</div>
+			<div id="header">
+				<img src="banner.png" />
+			</div>
+			<div id="main-menu">
+				<table class="main-table">
+					<tr>
+						<td><p class="cell"><a href="news.html">News</a></p></td>
+						<td><p class="cell"><a href="pics.html">Photos</a></p></td>
+						<td><p class="cell"><a href="vids.html">Videos</a></p></td>
+						<td><p class="cell"><a href="courts.html">Courts</a></p></td>	
+						<td><p class="cell"><a href="players.html">Ballers</a></p></td>	
+					
+					</tr>
+				</table>
+			</div>
+			<div id="left-sidebar">
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div>   
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div>
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div> 
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div>  
+				
+			
+			</div>
+			<div id="right-sidebar">
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div>   
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div>
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div> 
+				<div class="article">
+				<p class="headline"><a href="article.html"><strong>Pistons lose in Chicago blowout.</strong></a></p>
+				<p class="abstract">Pistons fail to match up to Derrick Rose's triple double...</p>
+				</div> 
+				
+			</div>
+			
+			
+			<div id="main-content">
+				
+				<div id="news">
+					<div class="news-title">
+						<p><strong>Rucker Park </strong></p>
+						<img src="star4_big.png" alt="1 star" width="198" height="48" />
+						
+					</div>
+					
+					<div id="news-pic">
+					<img  name="Image" src="rucker1.png" alt="image" width="200" height="250" />
+					</div>
+					
+					<div class="descr">
+						<table><tr class="desc-title"><td>
+						<p class="desc-style"><strong>Description</strong></p></td></tr>
+						<tr class="desc-content"><td>
+						<p>Rucker Park is a basketball court in the Harlem neighborhood of the New York City borough of Manhattan. It is located at 155th Street and Frederick Douglass Boulevard across the street from the former Polo Grounds site.[1][2] 
+						Many who played at the park achieved a level of fame for their abilities, and several have gone on to play in the NBA.</p></td></tr>
+						</table>
+					</div>
+					
+					<div class="descr">
+						<table><tr class="desc-title"><td>
+						<p class="desc-style"><strong>Comments</strong></p></td></tr>
+						<tr class="user-comm"><td><p><a href="user.html">AlexNoe333</a></p></td></tr>
+						<tr class="desc-content"><td>
+						<p>Rucker Park is a basketball court in the Harlem neighborhood of the New York City borough of Manhattan. It is located at 155th Street and Frederick Douglass Boulevard across the street from the former Polo Grounds site.[1][2] 
+						Many who played at the park achieved a level of fame for their abilities, and several have gone on to play in the NBA.</p></td></tr>
+						<tr class="user-comm"><td><p><a href="user.html">AlexNoe333</a></p></td></tr>
+						<tr class="desc-content"><td>
+						<p>Rucker Park is a basketball court in the Harlem neighborhood of the New York City borough of Manhattan. It is located at 155th Street and Frederick Douglass Boulevard across the street from the former Polo Grounds site.[1][2] 
+						Many who played at the park achieved a level of fame for their abilities, and several have gone on to play in the NBA.</p></td></tr>
+						<tr class="user-comm"><td><p><a href="user.html">AlexNoe333</a></p></td></tr>
+						<tr class="desc-content"><td>
+						<p>Rucker Park is a basketball court in the Harlem neighborhood of the New York City borough of Manhattan. It is located at 155th Street and Frederick Douglass Boulevard across the street from the former Polo Grounds site.[1][2] 
+						Many who played at the park achieved a level of fame for their abilities, and several have gone on to play in the NBA.</p></td></tr>
+						<tr class="user-comm"><td><p><a href="user.html">AlexNoe333</a></p></td></tr>
+						<tr class="desc-content"><td>
+						<p>Rucker Park is a basketball court in the Harlem neighborhood of the New York City borough of Manhattan. It is located at 155th Street and Frederick Douglass Boulevard across the street from the former Polo Grounds site.[1][2] 
+						Many who played at the park achieved a level of fame for their abilities, and several have gone on to play in the NBA.</p></td></tr>
+						</table>
+					</div>
+					
+					<div class="comments">
+						<table><tr><td><p><strong>Leave a comment:</strong></p></td><td rowspan="4">
+						<textarea rows="5" cols="20">
+						</textarea></td></tr>
+						<tr><td><p><strong>Rate this court:</strong></p></td></tr><tr><td><select id="rating">
+							<option selected="selected">Rate</option>
+							<option>1</option>
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+							<option>5</option>						
+							</select></td></tr>
+						<tr><td><p class="button2"><a href="courts_pres.html"><input type="submit" value="Submit" /></a></p></td></tr>
+						</table>
+					</div>
+				</div>
+			
+			</div>
+			
+			
+			
+			<div id="footer">
+			<table class="footer-links">
+				<tr>
+				<td><p><a class="footer-text" href="about.html">About us</a></p></td>
+				<td><p class="footer-text">|</p></td>
+				<td><p><a class="footer-text" href="contact.html">Contact</a></p></td>
+				<td><p class="footer-text">|</p></td>
+				<td><p><a class="footer-text" href="index.html">Home</a></p></td>
+				</tr>
+			</table>
+				
+				
+			</div>
+		
+		</div>
+		
+		
+	
+	</div>
+
+</body>
+
+</html>
