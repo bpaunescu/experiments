@@ -1,4 +1,4 @@
-# experiments
+# Simple Java Web Server
 
 A simple multi threaded web server made in Java. Handles HTTP GET requests. No keep alive implemented yet. Good for deploying small static
 websites.
